@@ -14,22 +14,22 @@ state-of-the-art architectures such as U-Nets (with SpecAugment)
 and Conditional GANs.
 
 LINK TO GOOGLE DRIVE FOLDER:
-[INSERT YOUR LINK HERE]
+[https://drive.google.com/drive/folders/1TpbILLbjqHRVeYU49Ap5ojFjrAUUSg8w?usp=drive_link]
 
 ----------------------------------------------------------------------
 SUBMISSION STRUCTURE
 ----------------------------------------------------------------------
 
 1. E-LEARNING SUBMISSION (Lightweight files):
-   - Presentation_Progetto.pdf: Project slides and documentation.
+   - Audio_Source_separation.pdf: Project slides and documentation.
    - README.txt: This file.
 
 2. GOOGLE DRIVE CONTENTS (Heavyweight files):
-   - Notebook_1_Monodimensional.ipynb: Time/Frequency analysis & Kick detection.
-   - Notebook_2_Bidimensional.ipynb: Spectrograms, SSM, HPS, and CNN classification.
-   - Notebook_3_U-Net_GAN.ipynb: Training of Source Separation models.
-   - Notebook_4_Evaluation.ipynb: Final statistical evaluation on the test set.
-   - /Trained_Models/: 
+   - Mono_dimensional_signal_processing_final.ipynb: Time/Frequency analysis & Kick detection.
+   - BiDimensional Processing.ipynb: 2d representations, SSM, HPS, and CNN classification.
+   - Task3.ipynb: Training of Source Separation models.
+   - Tas3-Evaluation.ipynb: Final statistical evaluation on the test set.
+   - Music_AI_Project: folder containing the following models: 
       * model_base.keras (U-Net Baseline)
       * unet_pro_aug_final.keras (U-Net with SpecAugment)
       * music_gan_generator.keras (GAN Generator)
